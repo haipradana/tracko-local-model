@@ -1,0 +1,21 @@
+torch
+torchvision
+transformers[torch]
+ultralytics
+opencv-python
+decord
+
+# Hugging Face
+accelerate
+datasets
+evaluate
+huggingface-hub
+
+numpy>=1.24.0
+pandas
+
+# encoding and utilities
+base64
+collections
+csv
+os
