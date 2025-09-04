@@ -22,3 +22,5 @@ base64
 collections
 csv
 os
+notebook
+ipykernel
