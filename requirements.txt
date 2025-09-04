@@ -4,6 +4,9 @@ transformers[torch]
 ultralytics
 opencv-python
 decord
+supervision
+matplotlib
+seaborn
 
 # Hugging Face
 accelerate
